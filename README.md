@@ -63,8 +63,20 @@ To get started with ActiViz, follow these steps:
 
 ## Sample Outputs
 
+Home
+![Home](https://github.com/MuthuPalaniappan925/Acti-Viz/blob/main/ActiViz/Outputs/Home.png)
 
+Sigmoid
+![Sigmoid](https://github.com/MuthuPalaniappan925/Acti-Viz/blob/main/ActiViz/Outputs/Sigmoid.png)
 
+ReLU
+![ReLU](https://github.com/MuthuPalaniappan925/Acti-Viz/blob/main/ActiViz/Outputs/ReLU.png)
+
+Tanh
+![Tanh](https://github.com/MuthuPalaniappan925/Acti-Viz/blob/main/ActiViz/Outputs/Tanh.png)
+
+Leaky ReLU
+![Leaky ReLU](https://github.com/MuthuPalaniappan925/Acti-Viz/blob/main/ActiViz/Outputs/Leaky%20ReLU.png)
 
 ## Contributing
 
